@@ -1,0 +1,7 @@
+# ignore all files except .gitignore :
+jams/*
+loop/*
+loops/*
+midi/*
+!.gitignore
+!place_choco_dataset_here.txt
